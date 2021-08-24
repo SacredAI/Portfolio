@@ -14,14 +14,14 @@ const exp = [
     title: "Shift Manager",
     cardImage: "assets/images/experience-page/mcd.png",
     place: "McDonald's, Australia",
-    time: "(January, 2020 - Present)",
+    time: "(January, 2021 - Present)",
     desp: "<li>Worked with a team to ensure shifts ran smoothly and correctly.</li><li>Adapted to problems as they arouse and sought after ways to mitigate issues and find solutions.</li>",
   },
   {
     title: "Crew Member",
     cardImage: "assets/images/experience-page/mcd.png",
     place: "McDonald's, Australia",
-    time: "(May, 2017 - January, 2020)",
+    time: "(May, 2017 - January, 2021)",
     desp: "<li>Worked with a team to ensure shifts ran smoothly and correctly.</li><li>Adapted to problems as they arouse and sought after ways to mitigate issues and find solutions.</li>",
   },
 ];

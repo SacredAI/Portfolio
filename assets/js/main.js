@@ -134,7 +134,7 @@ let footer = $(`
     </div>
     <div class="footer-right">
       <h6 class="display-7">Get in Touch</h6>
-      <form style="width:80%; margin-left:7%;">
+      <form class="form-style-6" style="width:80%; margin-left:7%;">
         <div class="name">
           <input type="text" name="name" placeholder="Name" id="inputs" required>
         </div>
